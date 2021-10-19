@@ -67,7 +67,7 @@ Sampling data from Kaggle Dataset Flickr-Faces-HQ (FFHQ) which is a high-quality
 - [Thread for real faces dataset](https://www.kaggle.com/c/deepfake-detection-challenge/discussion/122786)
 - [1 Million Fake faces](https://www.kaggle.com/c/deepfake-detection-challenge/discussion/121173)
 
-You can download my sampling dataset in Google Drive [here](http://gofile.me/6balD/vyfcpQER6).
+You can download my sampling dataset in [here](http://gofile.me/6balD/vyfcpQER6). Please check again my presentation. You can find password in YouTube comments.
 
 
 ## train.py
